@@ -1,0 +1,14 @@
+body {
+    background-color: #FEFBE9;
+}
+.center {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    color: #183A1D;
+}
+
+.foto-boyut {
+    width: 20%;
+    height: 10%;
+}
